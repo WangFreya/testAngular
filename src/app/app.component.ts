@@ -17,4 +17,6 @@ export class AppComponent {
   }
   arr = ['bruce','tommy','peter']
   siteURL = window.location.href
+
+  pageTitle: string = "Acne Product Management"
 }
